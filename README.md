@@ -8,7 +8,7 @@ Atuo na criação de soluções que conectam sistemas, automatizam e otimizam ta
 
 Tenho grande interesse em evoluir como desenvolvedor júnior, aprofundando meus conhecimentos em backend, integração de sistemas e boas práticas de engenharia de software.
 
-Minha motivação é a curiosidade: gosto de buscar minhas próprias respostas para adquirir um conhecimento solido e sempre manter um aprendizado contínuo. Utilizo este GitHub para registrar estudos, projetos e experimentos práticos.
+Minha motivação é a curiosidade, gosto de buscar minhas próprias respostas para adquirir um conhecimento solido e sempre manter um aprendizado contínuo. Utilizo este GitHub para registrar estudos, projetos e experimentos práticos.
 
 <br/>
 
