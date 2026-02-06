@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Caio Santana Nascimento
 
-**`Desenvolvedor Full Stack`** **`|`** **`Analista de Dados`**
+**`Desenvolvedor Full Stack`** | **`Analista de Dados`**
 
 Olá! Sou o Caio Santana Nascimento, Analista Júnior com experiência em dados, integrações via APIs, automação de processos em Python e desenvolvimentos web.
 
